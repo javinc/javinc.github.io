@@ -1,14 +1,23 @@
-### Who
-I like getting involve on awesome projects, develop my own ideas, and develop others too (as long as its interesting)
+### language
+	- golang
+	- php
+	- javascript
+  
+### database
+	- rethinkdb
+	- mysql
+  
+### front
+	- react
+	- polymer
+	- angular
+  
+### experience
+	- may 2012 - july 2013
+		- Senior Web Developer @ Ameritech Solution Inc
+	- august 2013 - july 2016
+		- Senior Software Developer @ Openovate Labs
 
-### What
-Write programs in Go, PHP, and JS most of the time backed by MySQL and Rethink 
-
-### When
-working professionally since 2012 but fell inlove on 2011
-
-### Where
-in the shadows of mordor
-
-### How
-to contact me? javinczki02@gmail
+### others
+	- linux system administration
+	- git
