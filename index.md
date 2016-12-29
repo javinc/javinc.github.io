@@ -18,6 +18,6 @@
 - august 2013 - july 2016
 	- senior software dev @ Openovate Labs
 
-### others
+### other
 - linux system administration
 - sms
