@@ -1,23 +1,23 @@
-### language
+## language
 - golang
 - php
 - javascript
 
-### database
+## database
 - rethinkdb
 - mysql
   
-### front
+## front
 - react
 - polymer
 - angular
   
-### experience
+## experience
 - may 2012 - july 2013
 	- senior web dev @ Ameritech Solution Inc
 - august 2013 - july 2016
 	- senior software dev @ Openovate Labs
 
-### other
+## other
 - linux system administration
 - sms
