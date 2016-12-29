@@ -20,4 +20,4 @@
 
 ### others
 - linux system administration
-- git
+- sms
