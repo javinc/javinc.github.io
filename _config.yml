@@ -2,7 +2,7 @@ title: javinc
 description: James Vincent Bion
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
