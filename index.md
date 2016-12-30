@@ -17,9 +17,9 @@
   
 ### experience
 ***
-- may 2012 - july 2013
+- may 2012 - jul 2013
 	- senior web dev @ Ameritech Solution Inc
-- august 2013 - july 2016
+- aug 2013 - jul 2016
 	- senior software dev @ Openovate Labs
 
 ### other
