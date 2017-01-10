@@ -22,7 +22,7 @@
 - aug 2013 - jul 2016
 	- senior software dev @ Openovate Labs
 - sep 2016 - present
-	- dev @ Mashdrop
+	- web dev @ Mashdrop
 
 ### other
 ***
