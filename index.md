@@ -21,7 +21,8 @@
 	- senior web dev @ Ameritech Solution Inc
 - aug 2013 - jul 2016
 	- senior software dev @ Openovate Labs
-- sep 2016 - now()
+- sep 2016 - present
+	- dev @ Mashdrop
 
 ### other
 ***
