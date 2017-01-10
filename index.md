@@ -30,5 +30,5 @@
 
 ### contact
 ***
-- jvbion<at>gmail.com
+- jvbion@gmail.com
 - +639353708662
