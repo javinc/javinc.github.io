@@ -21,6 +21,7 @@
 	- senior web dev @ Ameritech Solution Inc
 - aug 2013 - jul 2016
 	- senior software dev @ Openovate Labs
+- sep 2016 - now()
 
 ### other
 ***
@@ -29,5 +30,5 @@
 
 ### contact
 ***
-- jvbion@gmail.com
+- jvbion<at>gmail.com
 - +639353708662
