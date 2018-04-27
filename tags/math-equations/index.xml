@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Math Equations on Hello World</title>
-    <link>http://example.org/tags/math-equations/</link>
+    <link>https://javinc.github.io/tags/math-equations/</link>
     <description>Recent content in Math Equations on Hello World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2018 | Follow on &lt;a href=&#34;https://twitter.com/mgjohansen&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; | &lt;a href=&#34;https://github.com/mgjohansen/hucore.git&#34; target=&#34;_blank&#34;&gt;Hucore theme&lt;/a&gt; &amp; &lt;a href=&#34;http://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; ♥</copyright>
     <lastBuildDate>Sun, 11 May 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/math-equations/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://javinc.github.io/tags/math-equations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Math example</title>
-      <link>http://example.org/post/math-example/</link>
+      <link>https://javinc.github.io/post/math-example/</link>
       <pubDate>Sun, 11 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/math-example/</guid>
+      <guid>https://javinc.github.io/post/math-example/</guid>
       <description>&lt;p&gt;MathJax can render latex math equations in webpages.
 $$
 \phi = \frac{(1+\sqrt{5})}{2} = 1.6180339887\cdots
