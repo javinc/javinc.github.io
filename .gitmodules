@@ -1,0 +1,3 @@
+[submodule "Sites/kudarap.github.io/themes/kiera"]
+	path = Sites/kudarap.github.io/themes/kiera
+	url = https://github.com/funkydan2/hugo-kiera/

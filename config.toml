@@ -1,0 +1,4 @@
+baseURL = "https://kudarap.github.io"
+languageCode = "en-us"
+title = "Kudarap"
+theme = "kiera"
