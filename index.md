@@ -1,8 +1,11 @@
+## James Bion
+Full-stack web developer
+
 ### language
 ***
 - Golang
 - PHP
-- javascript
+- Javascript
 
 ### database
 ***
