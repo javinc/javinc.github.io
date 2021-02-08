@@ -1,35 +1,39 @@
 ### language
 ***
-- golang
-- php
+- Golang
+- PHP
 - javascript
 
 ### database
 ***
-- rethinkdb
-- mysql
-  
+- MySQL
+- MongoDB
+- Redis
+- RethinkDB
+
 ### front
 ***
-- react
-- polymer
-- angular
-  
+- ReactJS
+- Vercel
+- HTML & CSS
+
+### infrastructure
+***
+- CircleCI
+- Digital Ocean
+
 ### experience
 ***
-- may 2012 - jul 2013
+- 2012 - 2013
 	- senior web dev @ Ameritech Solution Inc
-- aug 2013 - jul 2016
+- 2013 - 2016
 	- senior software dev @ Openovate Labs
-- sep 2016 - present
-	- web dev @ Mashdrop
-
-### other
+- 2017 - 2018
+	- software dev @ Examine.com
+- 2018 - present
+	- full stack dev @ Mashdrop
+	
+### others
 ***
-- linux system administration
-- sms
-
-### contact
-***
-- jvbion@gmail.com
-- +639353708662
+- Linux System Admin
+- SMS
