@@ -40,16 +40,15 @@ Software developer
     
 ## Projects
 - Ratatxt
-    - SMS service written in Golang, ReactJS, and Android.
+    - SMS API service written in Golang, ReactJS, and Android.
     
 - DotagiftX
     - Game community marketplace written NextJS and Golang with Steam integration.
     
-## Others
+## Other
 - Docker
 - Linux System Admin
 - CircleCI
 - Github Actions
-- AWS
-- Azure
 - Digital Ocean
+- Vercel
